@@ -2,8 +2,6 @@
   path = 'github.com/panr/hugo-theme-terminal/v4'
 
 baseURL = "https://justinryanc.github.io/justinryanc.com-v2/"
-RelativeURLs=true
-CanonifyURLs=true
 
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.

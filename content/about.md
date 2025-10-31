@@ -3,7 +3,7 @@ draft = false
 title = 'About'
 +++
 
-![Photo of myself](/me.jpg)
+![Photo of myself](me.jpg)
 
 **I’m an IT Professional and Photographer based in the beautiful mountains of Eastern Kentucky.**
 
